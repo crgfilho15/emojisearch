@@ -1,0 +1,39 @@
+.title {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 1em;
+}
+
+.containerInput {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+.input {
+    width: 95%;
+}
+
+.spacing {
+    margin: 0.2em 0.2em;
+}
+
+.card:hover {
+    background-color: #C3C3C3;
+}
+
+.align{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.span{
+    color: white;
+}
